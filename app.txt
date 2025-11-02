@@ -3,3 +3,4 @@ core line
 prepare feature
 ready to release
 issue fixed
+new feature line
