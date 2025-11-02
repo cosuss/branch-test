@@ -1,5 +1,5 @@
 version: 1
-core line
+core line - fixed by team
 prepare feature
 ready to release
 issue fixed
